@@ -5,3 +5,10 @@ Audio classification or sound classification can be referred to as the process o
 #### Music classification
 #### Natural Language Classification
 #### Environmental Sound Classification.
+
+## There are several real world applications for this research, such as:
+#### Content-based multimedia indexing and retrieval
+#### Assisting deaf individuals in their daily activities
+#### Smart home use cases such as 360-degree safety and security capabilities
+#### Industrial uses such as predictive maintenance
+
